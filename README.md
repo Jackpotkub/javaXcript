@@ -1,1 +1,2 @@
-# javaXcript
+# JavaScript
+Lecture in class
